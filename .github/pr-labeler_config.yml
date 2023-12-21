@@ -1,8 +1,8 @@
-Component: Build:
+Component\: Build:
   - changed-files:
     - any-glob-to-any-file: ['build.xml']
 
-Component: Core Schema:
+Component\: Core Schema:
   - changed-files:
     - any-glob-to-any-file: ['source/modules/**/*', 'source/mei-source.xml']
 
