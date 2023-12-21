@@ -2,4 +2,8 @@
 
 <project name="music-encoding" default="dist" xmlns:if="ant:if" xmlns:unless="ant:unless">
 
+    <target name="dist">
+        <echo>HELLO: WORLD</echo>
+    </target>
+  
 </project>
