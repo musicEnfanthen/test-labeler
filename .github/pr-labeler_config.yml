@@ -1,4 +1,4 @@
-'Component Build':
+'Component: Build':
   - changed-files:
     - any-glob-to-any-file: ['build.xml']
 
