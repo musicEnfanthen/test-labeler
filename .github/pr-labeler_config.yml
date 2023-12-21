@@ -2,34 +2,34 @@
   - changed-files:
     - any-glob-to-any-file: ['build.xml']
 
-Component\: Core Schema:
+'Component: Core Schema':
   - changed-files:
     - any-glob-to-any-file: ['source/modules/**/*', 'source/mei-source.xml']
 
-Component: Customizations:
+'Component: Customizations':
   - changed-files:
     - any-glob-to-any-file: ['customizations/**/*']
 
-Component: Guidelines & Documentation:
+'Component: Guidelines & Documentation':
   - changed-files:
     - any-glob-to-any-file: ['source/docs/**/*', 'source/examples/**/*']
 
-Component: Images:
+'Component: Images':
   - changed-files:
     - any-glob-to-any-file: ['source/assets/images/**/*']
 
-Component: Style:
+'Component: Style':
   - changed-files:
     - any-glob-to-any-file: ['source/assets/css/**/*']
 
-Component: Utils:
+'Component: Utils':
   - changed-files:
     - any-glob-to-any-file: ['utils/**/*']
 
-Component: Validation:
+'Component: Validation':
   - changed-files:
     - any-glob-to-any-file: ['source/validation/**/*']
 
-Component: Workflows:
+'Component: Workflows':
   - changed-files:
     - any-glob-to-any-file: ['.github/**/*']
